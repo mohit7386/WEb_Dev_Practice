@@ -1,0 +1,169 @@
+Hr Tag :- 
+
+Hr tag is used to create horizontal line in your web page.
+hr tag is a self closing tag.
+
+HTML Quotations:-
+
+HTML <blockquote>----</blockquote> for quotation:- 
+
+The HTML <blockquote> element defines a section that is quoted from another source.
+
+<p>-----</p> <blockquote>-----</blockquote>
+
+Browsers usually indent <blockquote> elements.
+for Example:-
+
+Here is a quote from WWF's website:
+
+For 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries and is supported by 1.2 million members in the United States and close to 5 million globally.
+
+HTML <q>----</q> tag:-
+
+<q> tag is used to short quotation. With the help of this quotation we can write a quote in between a line with double codes.
+ for example :- <p>-----<q>------</q></p>
+<p>WWF's goal is to: <q>Build a future where people live in harmony with nature.</q></p>
+<
+The Major Difference Between <q> tag and <blockquote> tag is in <q> tag the quotation is in the same line with double codes but in the <blockquote> tag the quotation is in the next line..
+and in <blockquote> the quote is in the next line but shifted in the right side as compare to first line.
+
+HTML <abbr> for Abbreviations:-
+
+The HTML <abbr> tag defines an abbreviation or an acronym, like "HTML", "CSS", "Mr.", "Dr.", "ASAP", "ATM".
+
+Marking abbreviations can give useful information to browsers, translation systems and search-engines.
+
+<p>The <abbr title="O<sub>2</sub>">OXYGEN</abbr> Human Need.</p>
+
+<abbr>---</abbr> - This Tag is used to create Abbrevation is between the line of code.
+
+
+
+
+
+HTML <address> for Contact Information:- With the help of this tag the text renders in italic form.
+
+The HTML <address> tag defines the contact information for the author/owner of a document or an article.
+
+The contact information can be an email address, URL, physical address, phone number, social media handle, etc.
+
+The text in the <address> element usually renders in italic, and browsers will always add a line break before and after the <address> element.
+
+
+
+
+
+The HTML <cite> tag defines the title of a creative work (e.g. a book, a poem, a song, a movie, a painting, a sculpture, etc.).
+
+Note: A person's name is not the title of a work.
+
+The text in the <cite> element usually renders in italic.
+
+<cite>-----</cite>:- This tag is used to define the title in your code and the title text is in italic form.
+
+
+
+
+<bdo dir="rtl">-----</bdo> :- <bdo> tag is used to change the current text direction..(Right to left)
+
+
+<bdo dir="rtl">--Your text here--</bdo> 
+
+
+
+
+If you want to add Colour in your text then use this:-
+
+Text Color:-
+
+You can set the color of text:
+
+Example:-
+
+<h1 style="color:Tomato;">Hello World</h1>
+<p style="color:DodgerBlue;">Lorem ipsum...</p>
+<p style="color:MediumSeaGreen;">Ut wisi enim...</p>
+<h2 style="color:Red;">I will make Myself a Beast</h2>
+<p style="color:Orange;">This was Awesome</p>
+
+
+Background Color:-
+
+<h1 style="background-color:red;">World is Mine..It's My Responsibility to save my world</h1>
+
+If you want to change the color of one text in a line of code then you need to use the <font color="---">-------your text-----</font>
+
+If you Want when I Click the Image then we get more information about that image...When i click that image then it redirects to the site...then use provide the link on the image by:-
+
+<a href="link"><img src="image link"alt="random image"></a>
+
+
+Pre Tag:-
+
+Pre tag is Used to display text as it is (without ignoring spaces & next line).
+
+<pre>--Your text--</pre>
+
+If you want when you click on google link then it opens the new tab not on the same window then use:-
+ 
+<a href="https://Google.Com" target="_main">Google</a> :- Target="_main" is used to redirect you to link new google tab.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

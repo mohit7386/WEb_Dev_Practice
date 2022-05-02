@@ -1,0 +1,47 @@
+Html Attributes:-
+
+HTML Attributes provide additional information about HTML elements to the browser .
+
+<html lang="en">
+
+Image Tag:-
+
+Image Tag is used to add image to the Browser.
+
+<img src="--Image Link--"alt=Random Image>
+
+src- This attribute specifies the path to the image to be displayed.
+
+alt-  If an image cannot be displayed for some reason, the ALT attribute provides alternative text to display instead of the image.
+
+HTML Anchor Tag -
+
+Anchor tag is used to add links to the web page :-
+
+<a href="Url"> Name of the url</a>
+
+If you want to add mail link 
+
+<a href = "mailto:mail id"> Email</a>
+
+phone number-
+
+<a href = "tel:mobile number" phone number<a/>
+
+HTML Formatting:-
+
+<b> - Bold text
+<strong> - Important text - if you want to bold a word in a line.
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text -if you want to highlight text with colour.
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text - with the help of this the text shown in the below of other text
+<sup> - Superscript text - with the help of this the text shown in the upper of the other text
+
+Big and Small Tags :-
+
+<big>-----</big> - With the help of big tag you can highlight the text with bigger size in Between the line of code.
+<small>----</small> - with the help of small tag you can highlight the text with smaller size in between the line of code.
