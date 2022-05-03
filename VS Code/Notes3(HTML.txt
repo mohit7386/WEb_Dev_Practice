@@ -1,0 +1,8 @@
+DIV Tag:-
+
+<div>-your text-</div>
+
+The div tag is known as Division tag. The div tag is used in HTML to make divisions of content in the web page like (text, images, header, footer, navigation bar, etc). 
+Div tag has both open (<div>) and closing (</div>) tag and it is mandatory to close the tag.
+
+Wayback Machine Is a Website Where we check how website look like in past.:-(Web.archive.org)
