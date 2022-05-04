@@ -6,3 +6,9 @@ The div tag is known as Division tag. The div tag is used in HTML to make divisi
 Div tag has both open (<div>) and closing (</div>) tag and it is mandatory to close the tag.
 
 Wayback Machine Is a Website Where we check how website look like in past.:-(Web.archive.org)
+
+What is utf-8?
+
+-> UTF-8 is a variable-width character encoding used for electronic communication. Defined by the Unicode Standard, the name is derived from Unicode (or Universal Coded Character Set) 
+Transformation Format – 8-bit.
+Full form of utf-> Universal Transformation format.
