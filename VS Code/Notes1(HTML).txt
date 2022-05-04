@@ -1,3 +1,10 @@
+HTML Tag:- A container for some content and some other HTML tags
+
+
+
+
+
+
 Html Attributes:-
 
 HTML Attributes provide additional information about HTML elements to the browser .
