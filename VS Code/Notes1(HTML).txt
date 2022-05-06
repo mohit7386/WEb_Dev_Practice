@@ -52,3 +52,5 @@ Big and Small Tags :-
 
 <big>-----</big> - With the help of big tag you can highlight the text with bigger size in Between the line of code.
 <small>----</small> - with the help of small tag you can highlight the text with smaller size in between the line of code.
+
+Tooltip:- <p title= "Your title"> your text</p>
