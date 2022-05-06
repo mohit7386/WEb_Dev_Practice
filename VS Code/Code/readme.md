@@ -75,4 +75,32 @@ I
 II
 III
 
+Tables In HTML:-
 
+Tables are used to represent real life table data 
+
+<td> <!---It is used to display table data---->
+<tr> <!---It is used to display table row---->
+<th> <!---It is used to display table header--->
+
+<tr>
+<th>Name</th>
+<th>Course</th>
+</tr>
+<tr>
+<td>Mohit</td>
+<td>B.Tech</td>
+</tr>
+<tr>
+<td>Ramit Ji</td>
+<td>B.Tech</td>
+</tr>
+
+<style> Tag is used to style the content or html elements.
+
+<style>
+div
+{
+    background-color:red;
+}
+</style>
