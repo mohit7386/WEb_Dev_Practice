@@ -42,4 +42,74 @@ Inline Elements takes only Sufficient width not full width, and it takes width o
 
 Wayback Machine Is a Website Where we check how website look like in past.:-(Web.archive.org)
 
+Span tag:- Span is also a container used for other HTML Elements.
+
+Inline Elements(takes width as per size)
+
+you cannot change the background of a text in <span> by using paragraph tag because paragraph is a <div> tag. But you can change the color of the paragraph in a <div> tag
+
+<span style="background-color:blue">Hey my name is Lucky</span> 
+
+List in HTML:-
+
+List are used to represent real life data in the list form
+
+list are of two types:-
+
+Unordered list :-
+
+<ul>
+<li> Apple </li>
+<li> Mango </li>
+</ul>
+
+Output:-
+
+Data will be printed in the bullet formats.
+
+ordered list:-
+
+<ol>
+<li> Apple </li>
+<li> Mango </li>
+</ol>
+
+Output:-
+
+Result will be printed in the Sequence Format like:
+1
+2
+3
+
+a
+b
+c
+
+I
+II
+III
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
