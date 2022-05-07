@@ -104,3 +104,12 @@ div
     background-color:red;
 }
 </style>
+
+Forms in HTML :-
+
+Forms are used to collect data from the user
+Eg- Signup/login/help request/contact me
+
+<form>
+form content
+</form>
