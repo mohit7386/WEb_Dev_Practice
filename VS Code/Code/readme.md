@@ -113,3 +113,6 @@ Eg- Signup/login/help request/contact me
 <form>
 form content
 </form>
+Action in form :-
+action attributes is used to define what action needs to be performed when a form is submitted.
+<form action="/action.php">
