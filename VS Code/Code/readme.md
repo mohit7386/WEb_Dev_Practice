@@ -113,6 +113,42 @@ Eg- Signup/login/help request/contact me
 <form>
 form content
 </form>
+
 Action in form :-
 action attributes is used to define what action needs to be performed when a form is submitted.
 <form action="/action.php">
+
+Input Box in html:-
+
+<input type="text"placeholder="Type Your Name">
+
+Radio Button:-
+
+<input type="radio"value="class X"name="class">class X
+
+Label in form:-
+
+<label for="id1">
+<input type="radio"value="class X"name="class"id="id1">class X
+</label>
+
+Text Area:-
+
+<textarea name="-----"id="--"placeholder="---">------</textarea>
+
+Select in Html:-
+
+Dropdowns are used for selection of States, Selection of universities etc.
+<select name="City">
+<option name="Delhi">Delhi</option>
+</select>
+
+For Submit Button:-
+
+<input type="submit"name="Submit">
+
+Iframe Tag:-
+
+Website Inside Webside
+
+<iframe src="link">

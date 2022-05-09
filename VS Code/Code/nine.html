@@ -5,8 +5,30 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>nineth Web Page</title>
+    <style>
+        input
+        {
+            border:2px solid black;
+        }
+    </style>
+    <style>
+        body
+        {
+            background-color: aqua;
+        }
+    </style>
+    <style>
+        .group1
+        {
+           color: black;
+           background-color: blueviolet;      
+        }
+    </style>
+    
 </head>
 <body>
+    <h1>Registration Form</h1>
+    <h2>Enter Your Details</h2>
     <form>
         <input type="text" placeholder="Enter Your Name">
         <br>
@@ -17,6 +39,76 @@
         <input type="password"placeholder="Enter Your Password">
         <br>
         <br>
+        <h2>Enter your School Board</h2>
+        <label for="33">
+            <input type="radio"value="CBSE"name="Board"id="33">CBSE
+        </label>
+        <br>
+        <label for="34">
+            <input type="radio"value="ICSE"name="Board"id="34">ICSE
+        </label>
+        <br>
+        <label for="35">
+            <input type="radio"value="U.P Board"name="Board"id="35">U.P Board
+            </label>
+            <br>
+            <label for="36">
+                <input type="radio"value="Rajasthan Board"name="Board"id="36">Rajasthan Board
+                </label>
+                <br>
+        <h2>Select Your Course</h2>
+        <input type="radio"value="Btech"name="Course">Btech
+        <br>
+        <input type="radio"value="BBA"name="Course">BBA
+        <br>
+        <input type="radio"value="Biotech"name="Course">Biotech
+        <br>
+        <input type="radio"value="MBA"name="Course">MBA
+        <br>
+        <h2>Select your Subjects</h2>
+        <label for="101">
+            <input type="checkbox"value="Math"name="Subject"id="101">Math
+        </label>
+        <br>
+        <label for="102">
+            <input type="checkbox"value="Rural Development"name="Subject"id="102">Rural Development
+        </label>
+        <br>
+        <label for="103">
+            <input type="checkbox"value="Data Warehousing"name="Subject"id="103">Data Warehousing
+        </label>
+        <br>
+        <label for="104">
+            <input type="checkbox"value="Entrepreneurship Development"name="Subject"id="104">Entrepreneurship Development
+        </label>
+        <br>
+        <label for="105">
+            <input type="checkbox"value="Data Science"name="Subject"id="105">Data Science
+        </label>
+        <br>
+        <label for="106">
+            <input type="checkbox"value="Computer Science"name="Subject"id="106">Computer Science
+        </label>
+        <br>
+        <h2>Select your City</h2>
+        <select name="city">
+            <option name="Delhi">Delhi</option>
+            <option name="Mumbai">Mumbai</option>
+            <option name="Banglore">Banglore</option>
+            <option name="Hyderabad">Hyderabad</option>
+            <option name="Greater Noida">Greater Noida</option>
+            <option name="Bareilly">Bareilly</option>
+            <option name="Budaun">Budaun</option>
+            <option name="USA">USA</option>
+
+        </select>
+        <br>
+        <br>
+        <h2>FeedBack</h2>
+        <textarea name="feedback"id="107"placeholder="Give your valuable feedback"rows=6>Feedback</textarea>
+        </textarea>
+        <br>
+        <input type="submit"name="Submit">
     </form>
     
 </body>
