@@ -152,3 +152,7 @@ Iframe Tag:-
 Website Inside Webside
 
 <iframe src="link">
+
+Video Tag:-
+
+<video height="100"width="100" src="link">My Video</video>
