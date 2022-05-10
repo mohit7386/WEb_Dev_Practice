@@ -98,6 +98,13 @@ Tables are used to represent real life table data
 <tr> <!---It is used to display table row---->
 <th> <!---It is used to display table header--->
 
+If you want to make a image and paragraph in a row then use:-
+
+<table>
+<tr>
+<td><a href="link"alt=""></a>
+<p>
+
 <tr>
 <th>Name</th>
 <th>Course</th>
