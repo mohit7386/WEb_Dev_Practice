@@ -149,7 +149,7 @@ Input Box in html:-
 
 Radio Button:-
 
-<input type="radio"value="class X"name="class">class X
+<input type="radio"value="class X"name="class">class X</input>
 
 Label in form:-
 
@@ -165,6 +165,7 @@ Select in Html:-
 
 Dropdowns are used for selection of States, Selection of universities etc.
 <select name="City">
+<option name="Select">Select</option>
 <option name="Delhi">Delhi</option>
 </select>
 
