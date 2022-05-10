@@ -1,3 +1,14 @@
+If you Want to make Image in circular form then you need to use in style:-
+
+<style>
+    img
+    {
+        border-radius:50%;
+    }
+    </style>
+
+
+
 This Website helps us to Crop image in Circle.
 
 https://crop-circle.imageonline.co/
