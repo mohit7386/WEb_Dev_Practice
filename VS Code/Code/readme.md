@@ -182,3 +182,7 @@ Website Inside Webside
 Video Tag:-
 
 <video height="100"width="100" src="link">My Video</video>
+
+<button> Tag:
+
+Used to create Button in your HTML page
