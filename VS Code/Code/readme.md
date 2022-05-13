@@ -185,4 +185,6 @@ Video Tag:-
 
 <button> Tag:
 
-Used to create Button in your HTML page
+Used to create Button in your HTML page:-
+<button type="Button">Email</button>
+<button type="Button">Phone Number</button>
