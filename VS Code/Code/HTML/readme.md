@@ -188,3 +188,6 @@ Video Tag:-
 Used to create Button in your HTML page:-
 <button type="Button">Email</button>
 <button type="Button">Phone Number</button>
+
+If you want to put a copyright button then u use:-
+<p>&copy; My Name is Singh</p>
